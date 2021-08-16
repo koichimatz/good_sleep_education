@@ -46,6 +46,6 @@ https://docs.google.com/spreadsheets/d/1IiKSK6bHscMAmXCiDG7R1NpIg_Cwjq0fzVXD731Z
 - IDE：Cloud9
 
 ## 使用素材
-- 画像素材 from[ぱくたそ](https://www.pakutaso.com/)
+- 画像素材 from [Adobe Stock](https://stock.adobe.com/jp/)
 - 外部サービスの画像素材・音声素材を使用した場合は、必ずサービス名とURLを明記してください。
 - 使用しない場合は、使用素材の項目をREADMEから削除してください。
